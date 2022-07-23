@@ -3,4 +3,5 @@ Original Dataset link - https://www.kaggle.com/datasets/ambarish/breakhis
 Test Dataset for Fine Tune - https://drive.google.com/drive/folders/11au2bKWgRuZH5I8o3lmfTDNS-OuLxkxc?usp=sharing
 Degraded Image Dataset - https://drive.google.com/drive/folders/1--1YF1CJJwScm8NJs4agrXsyvPLz1cVp?usp=sharing
 Result after Fine Tuning - https://drive.google.com/drive/folders/1hfQsSBfyg2jjiDDVdLqksCy8dO8acOP5?usp=sharing
-Fine Tune Folder Containing used Datasets, Fine-Tune Models and Results - 
+Fine Tune Folder Containing used Datasets, Fine-Tune Models and Results - https://drive.google.com/file/d/1QSCoDeZ5SzyZyh28cZkjrL4XHXDXKmBL/view?usp=sharing
+ESRGAN_Results - https://docs.google.com/document/d/1SncbEmBCcweE0QFI-deqszhrjt5e1GcIYWdfbLhrork/edit
